@@ -1,4 +1,5 @@
 package ExhaustiveSearch;
+//check it on https://atcoder.jp/contests/s8pc-6/tasks/s8pc_6_b
 
 import java.util.Scanner;
 
