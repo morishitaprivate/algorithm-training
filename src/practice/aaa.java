@@ -1,13 +1,15 @@
 package practice;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
+
+import javax.net.ssl.SSLContext;
 
 public class aaa {
 	public static void main(String[] args) {
-		Integer[] arr = new Integer[10];
-		arr[0] = 6;
-		for (Integer num : arr) {
+		List<Integer> list = Arrays.asList(1,3,5,0);
+		for (int num : list) {
 			System.out.println(num);
 		}
 	}
